@@ -1,0 +1,5 @@
+Halo pak, nama saya Rachman dari Tegal
+
+Resolusi saya:
+-Membuat website dengan farmework laravel
+-Bekerja di perusahaan yang bisa WFH
